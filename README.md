@@ -3,7 +3,7 @@
 <!--
 ### Freelance full-stack iOS & Android engineer
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+[![Dassault](https://img.shields.io/badge/Dassault-systèmes-005386?style=for-the-badge&logo=Dassault-systèmes&logoColor=white&labelColor=101010)]()
 
 I'm a professional software developer for more than ten years.
 
@@ -15,6 +15,11 @@ In 2018 I return to my small hometown in Galicia (Spain), and I begin to create 
 
 ## Skills:
 
+[![Cplusplus](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)]()
+[![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)]()
+[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white&labelColor=101010)]()
+</br>
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 </br>
@@ -28,20 +33,19 @@ In 2018 I return to my small hometown in Galicia (Spain), and I begin to create 
 </br>
 And more...
 
-<!--
 ## Find me at:
+[![Twitter](https://img.shields.io/badge/@JulioMartinSaez-1DA1F2?style=social&logo=Twitter&logoColor=blue&labelColor=101010)](https://twitter.com/JulioMartinSaez)
+[![Instagram](https://img.shields.io/badge/@j.u.l.ymaker-E4405F?style=social&logo=instagram&logoColor=pink&labelColor=101010)](https://instagram.com/j.u.l.ymaker)
+[![LinkedIn](https://img.shields.io/badge/juliomartinsaez-0077B5?style=social&logo=linkedin&logoColor=blue&labelColor=101010)](https://www.linkedin.com/in/julio-martin-saez)
+[![YouTube](https://img.shields.io/badge/JulioMartinSaez-FF0000?style=social&logo=youtube&logoColor=red&labelColor=101010)](https://youtube.com/JulioMartinSaez)
+[![Web](https://img.shields.io/badge/julymaker.github.io-14a1f0?style=social&logo=dev.to&logoColor=black&labelColor=101010)](https://julymaker.github.io)
 
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevapps)
-[![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
+## Contact me:
+[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MESSAGE+COFFEE_(FAST_RESPONSE)_Thank_you!-orange?style=flat&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://mypublicinbox.com/julymaker)
 </br>
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
-[![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
-</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
-[![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
-[![Web](https://img.shields.io/badge/My_Website-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
+[![Email](https://img.shields.io/badge/juliomartinsaez@gmail.com-my_personal_email_(slow_response)-D14836?style=flat&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
 
+<!--
 ## Some YouTube videos:
 
 <table style="width:100%">
@@ -99,13 +103,7 @@ And more...
 </table>
 </table>
 
-
-## Contact me:
-
-[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MESSAGE+COFFEE_(FAST_RESPONSE)_Thank_you!-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
-
 </br>
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
 
 -->
 
