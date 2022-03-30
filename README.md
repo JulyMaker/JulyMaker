@@ -30,7 +30,7 @@ And more...
 
 ## Find me at:
 [![Twitter](https://img.shields.io/badge/@JulioMartinSaez-1DA1F2?style=social&logo=Twitter&logoColor=blue&labelColor=101010)](https://twitter.com/JulioMartinSaez)
-[![Instagram](https://img.shields.io/badge/@j.u.l.ymaker-E4405F?style=social&logo=instagram&logoColor=pink&labelColor=101010)](https://instagram.com/j.u.l.y.maker)
+[![Instagram](https://img.shields.io/badge/@j.u.l.y.maker-E4405F?style=social&logo=instagram&logoColor=pink&labelColor=101010)](https://instagram.com/j.u.l.y.maker)
 [![LinkedIn](https://img.shields.io/badge/juliomartinsaez-0077B5?style=social&logo=linkedin&logoColor=blue&labelColor=101010)](https://www.linkedin.com/in/julio-martin-saez)
 [![YouTube](https://img.shields.io/badge/JulioMartinSaez-FF0000?style=social&logo=youtube&logoColor=red&labelColor=101010)](https://www.youtube.com/channel/UCeO27uemzX5y39FEk7XvEEQ)
 [![Web](https://img.shields.io/badge/julymaker.github.io-14a1f0?style=social&logo=dev.to&logoColor=black&labelColor=101010)](https://julymaker.github.io)
