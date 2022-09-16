@@ -4,7 +4,7 @@
 
 
 
-I'm a professional software developer [![Dassault](https://img.shields.io/badge/Dassault-systèmes-005386?style=flat&logo=Dassault-systèmes&logoColor=white&labelColor=101010)]() for more than six years.
+I'm a professional software developer [![Dassault](https://img.shields.io/badge/Dassault-systèmes-005386?style=flat&logo=Dassault-systèmes&logoColor=white&labelColor=101010)]() for more than seven years.
 
 In 2016 I was in NextLimit company, and I begin to create programming CFD content, but I'm an technology enthusiastic and share my experience as a developer and maker (Print3D, FPGAs, Software, Home automation).
 
